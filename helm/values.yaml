@@ -2,7 +2,7 @@ image:
   repository: vfarcic/devops-toolkit-series
   tag: latest
   pullPolicy: IfNotPresent
-ingress:
+ingress: 
   enabled: true
   host: devopstoolkitseries.com
 resources:
